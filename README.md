@@ -16,7 +16,7 @@ The SpaceX Launch Schedule Tracker is a web application designed to provide user
   
 ## Usage
 
-1. Start the server: npm start
+1. Start the server: `npm start`
 2. Open the application in your web browser: http://localhost:3000
 
 ## Technologies Used
