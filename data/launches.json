@@ -1,0 +1,9 @@
+[
+  {
+    "mission_name": "Demo Mission",
+    "rocket_type": "Falcon 9",
+    "launch_date": "2024-03-25T13:00:00Z",
+    "launch_site": "Cape Canaveral Space Force Station",
+    "mission_details": "Demo mission for testing purposes."
+  }
+]
